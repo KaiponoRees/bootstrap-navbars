@@ -33,3 +33,8 @@
   color: black;
   padding-top: "0px";
 }
+
+#buzz {
+  background-color: rgb(48,73,95); 
+  color: white;
+}
