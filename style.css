@@ -38,3 +38,11 @@
   background-color: rgb(48,73,95); 
   color: white;
 }
+
+#alohabeer div.nav-link {
+  color: black;
+}
+
+#alohabeer div#shop.nav-link {
+  color: #EDC601;
+}
