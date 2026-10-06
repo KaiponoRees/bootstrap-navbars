@@ -46,3 +46,12 @@
 #alohabeer div#shop.nav-link {
   color: #EDC601;
 }
+
+#dukes {
+  background-color: #017574; 
+  color: white;
+}
+
+#dukes li#order.nav-item.nav-link{
+  color: #F1A228;
+}
